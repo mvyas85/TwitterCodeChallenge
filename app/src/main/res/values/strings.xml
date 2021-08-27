@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tweather</string>
+    <string name="current_city_name">Current City</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="temperature">%1$2.0f °C / %2$2.0f °F</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="standard_temperature_deviation_for_5_days">Standard Temperature Deviation for 5 days</string>
+    <string name="fetch_5_day_weather">Fetch 5 days weather</string>
+    <string name="loading">Loading…</string>
+</resources>
