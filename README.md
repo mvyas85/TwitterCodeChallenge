@@ -1,6 +1,7 @@
 # TwitterCodeChallenge
 Weather app for Twitter. 
 
+![Alt Text](https://github.com/mvyas85/TwitterCodeChallenge/blob/main/clip.gif)
 # Tweeteer weather
 
 ## What is Included ?
