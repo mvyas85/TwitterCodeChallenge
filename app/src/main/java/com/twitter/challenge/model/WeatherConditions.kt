@@ -1,4 +1,4 @@
-package com.twitter.challenge.service.model;
+package com.twitter.challenge.model;
 
 data class WeatherConditions(
         val name: String,
